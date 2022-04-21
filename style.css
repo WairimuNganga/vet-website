@@ -1,0 +1,803 @@
+body {
+    background-color:rgb(233,250,252);
+    padding: 1%;
+    margin: 1%;
+}
+
+.top {
+    height: 480px;
+    width: 100%;
+}
+
+.top nav {
+    text-align: right;
+    margin-top: -42px;
+
+
+}
+
+.navbar nav li {
+    color:rgb(102,103,121);
+    display: inline;
+    margin: 2%;
+
+
+}
+
+.navbar h1 {
+    margin: 2% 2% 2% 4%;
+
+}
+
+.navbar h1 span {
+    color: #298bc0;
+    font-size: 40px;
+
+
+}
+
+.vertinaryClinic h4 {
+    color: rgb(240,173,109);
+    margin: 3% 5% -2% 4%;
+    width: 37%;
+}
+
+.vertinaryClinic h1 {
+    font-size: 49px;
+    margin: 2% 3% 2% 4%;
+    width: 39%;
+}
+
+.vertinaryClinic p {
+    margin: 2% 3% 2% 4%;
+    color: rgb(125,126,158);
+    width: 35%;
+}
+
+.getstarted {
+    margin: 2% 3% 2% 4%;
+    background-color: rgb(58,161,171);
+    padding: 1% 2%;
+    border-radius: 13px;
+    color: #fff;
+    font-size: 20px;
+    border: none;
+}
+
+.vertinaryClinic i {
+    color:rgb(58,161,171);
+    border-radius: 180%;
+    background-color: #fff;
+    border: 2px;
+    padding: 12px 13px;
+
+}
+
+.woman1 {
+    border-radius: 3000px;
+    border: solid 50px rgb(207,228,231);
+    float: right;
+    width: 30%;
+    margin-left: 120px;
+    margin-top: -295px;
+    align-items: center;
+    margin-right: 120px;
+    margin-bottom: 0%;
+
+}
+
+img {
+
+    width: 250px;
+    margin-left: 50px;
+    margin-top: 2px;
+
+}
+
+.services {
+    background-color:rgb(248,254,255);
+    margin-top: 100px;
+
+
+}
+
+#h1 {
+    float: left;
+    font-size: 30px;
+    margin-left: 10%;
+    margin-top: 50px;
+    font-size: 50px;
+    width: 45%;
+    /*border: 2px solid;*/
+    padding: auto;
+
+}
+
+#para {
+    float: right;
+    font-size: 15px;
+    color: #575757;
+    margin-right: 64px;
+    margin-top: 70px;
+    width: 30%;
+    padding: auto;
+    text-align: center;
+
+}
+
+.container1 {
+    display: flex;
+   /* border: solid 2px;*/
+    width: 80%;
+    margin-left: 10%;
+    margin-bottom: 3%;
+
+
+}
+
+.radiologyAssistant {
+    background-color: rgb(255,255,255);
+    /*border: 2px solid;*/
+    padding-top: 33px;
+    padding-bottom: 12px;
+    padding-left: 35px;
+    padding-right: 56px;
+    text-align: left;
+
+
+
+}
+
+.radiologyAssistant i {
+    background-color:rgb(233,250,252);
+    color: rgb(101,190,201);
+    border-radius: 44%;
+    width: 7%;
+    padding: 6px 11px 13px 7px;
+    align-items: center;
+    height: 4%;
+}
+
+.radiologyAssistant p {
+    color: #575757;
+}
+
+.ambulanceServices {
+   /* border: 2px solid;*/
+    background-color:rgb(255,255,255);
+    padding-top: 33px;
+    padding-bottom: 12px;
+    padding-left: 34px;
+    padding-right: 54px;
+    text-align: left;
+    margin-left: 8%;
+
+
+
+
+
+
+}
+
+.ambulanceServices i {
+    background-color:rgb(233,250,252);
+    color: rgb(101,190,201);
+    border-radius: 45%;
+    width: 10%;
+    padding: 8px 3px 13px 8px;
+    align-items: center;
+    height: 3%;
+}
+
+.ambulanceServices p {
+    color: #575757;
+}
+
+.dentalCare {
+    background-color:rgb(255,255,255);
+    /*border: 2px solid;*/
+    padding-top: 33px;
+    padding-bottom: 12px;
+    padding-left: 34px;
+    padding-right: 58px;
+    text-align: left;
+    margin-left: 8%;
+
+
+
+
+}
+
+.dentalCare i {
+    background-color:rgb(233,250,252);
+    color: rgb(101,190,201);
+    border-radius: 45%;
+    width: 9%;
+    padding: 7px 7px 13px 6px;
+    align-items: center;
+    height: 3%;
+
+}
+
+.dentalCare p {
+    color: #575757;
+}
+
+.container2 {
+    display: flex;
+  /*  border: 2px solid;*/
+    width: 80%;
+    margin-left: 10%;
+    margin-bottom: 3%;
+
+}
+
+.surgicalOperation {
+    background-color:rgb(255,255,255);
+   /* border: 2px solid;*/
+    padding-top: 33px;
+    padding-bottom: 15px;
+    padding-left: 34px;
+    padding-right: 45px;
+    text-align: left;
+
+
+}
+
+.surgicalOperation i {
+    background-color:rgb(233,250,252);
+    color: rgb(101,190,201);
+    border-radius: 47%;
+    width: 7%;
+    padding: 7px 9px 16px 6px;
+    align-items: center;
+    height: 3%;
+}
+
+.surgicalOperation p {
+    color: #575757;
+}
+
+.parturitionService {
+    background-color:rgb(255,255,255);
+   /* border: 2px solid;*/
+    padding-top: 31px;
+    padding-bottom: 15px;
+    padding-left:28px;
+    padding-right: 28px;
+    text-align: left;
+    margin-left: 8%;
+
+
+
+}
+
+.parturitionService i {
+    background-color: rgb(233,250,252);
+    color: rgb(101,190,201);
+    border-radius: 47%;
+    width: 7%;
+    padding: 8px 7px 17px 10px;
+    align-items: center;
+    height: 3%;
+}
+
+.parturitionService p {
+    color: #575757;
+}
+
+.petHostel {
+    background-color: rgb(255,255,255);
+    /*border: 2px solid;*/
+    padding-top: 33px;
+    padding-bottom: 15px;
+    padding-left: 32px;
+    padding-right: 30px;
+    text-align: left;
+    margin-left: 8%;
+
+
+
+}
+
+.petHostel i {
+    background-color:rgb(233,250,252);
+    color: rgb(101,190,201);
+    border-radius: 47%;
+    width: 7%;
+    padding: 9px 10px 16px 6px;
+    align-items: center;
+    height: 3%;
+
+}
+
+.petHostel P {
+    color: #575757;
+}
+
+.doctor1 img {
+   /* border: 2px solid;*/
+    background-color:rgb(207,228,231);
+    height: 450px;
+    width: 450px;
+    border-radius: 3%;
+
+}
+
+.container3 {
+    display: flex;
+    margin-left: 82px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+
+}
+
+.doctor1About h1 {
+    font-size: 44px;
+}
+
+.doctor1About p {
+    color: #575757;
+}
+
+.doctor1About {
+    padding: 30px;
+    margin: 20px;
+
+
+
+}
+
+.contactUs {
+    margin: 2% 3% 2% 4%;
+    background-color: rgb(44, 196, 196);
+    padding: 1% 2%;
+    border-radius: 13px;
+    color: #fff;
+    font-size: 17px;
+    border: none;
+}
+
+.section4 {
+    background-color:rgb(248,254,255);
+    margin-top: -9%;
+}
+
+#h2 {
+    float: left;
+    font-size: 30px;
+    margin-left: 10%;
+    margin-top: 105px;
+    font-size: 50px;
+    width: 48%;
+   /* border: 2px solid;*/
+    padding: auto;
+
+}
+
+#para2 {
+    float: right;
+    font-size: 15px;
+    color: #575757;
+   /* border: 2px solid;*/
+    margin-right: 61px;
+    margin-top: 8.8%;
+    width: 30%;
+    padding: auto;
+    text-align: center;
+    margin-bottom: -2%;
+
+}
+#comment-i{
+    float: right;
+   /* border: 2px solid;*/
+    margin-top:-4% ;
+    margin-right: 10%;
+    color: rgb(160,216,221);
+    font-size: larger;
+}
+
+
+.container4 {
+    display: flex;
+    margin-top: 4%;
+    /*border: 2px solid;*/
+    width: 80%;
+    margin-left: 10%;
+    margin-bottom: 3%;
+
+
+}
+
+.content1 {
+    background-color: #f8f8ff;
+   /* border: 2px solid;*/
+    padding: 2px 40px 2px 47px;
+    height: 570px;
+
+
+}
+
+.image1 img {
+    border-radius: 50%;
+    margin-top: 50px;
+    width: 50px;
+    height: 50px
+}
+
+.image2 img {
+    border-radius: 120%;
+    margin-top: 50px;
+    width: 15%;
+    height: 75%;
+}
+
+.stars1 {
+    color: gold;
+}
+
+.stars2 {
+    color: gold;
+}
+
+.quotes1 {
+    color: rgb(104, 187, 214);
+    width: 150px;
+}
+
+.quotes2 {
+    color: rgb(104, 187, 214);
+    width: 150px;
+}
+
+.content2 {
+    background-color: #f8f8ff;
+   /* border: solid 2px;*/
+    padding: 2px 80px 2px 80px;
+    margin-left: 20px;
+    align-content: center;
+    /* height: 570px;*/
+}
+
+.container4 p {
+    color: #575757;
+    margin-top: 2px;
+
+}
+
+.tiny {
+    display: flex;
+}
+
+.tiny h4 {
+    display: flex;
+
+
+}
+
+#hm {
+    margin-left: 20px;
+    margin-top: 50px;
+}
+
+#lm {
+    margin-left: -120px;
+    margin-top: 70px;
+    margin-right: -17px;
+}
+
+.stars1 {
+    margin-left: 120px;
+    margin-top: -12px;
+
+
+
+}
+
+.stars1 p {
+    margin-left: 108px;
+    margin-top: -18px;
+
+}
+
+#as {
+    margin-left: 140px;
+    margin-top: -60px;
+
+}
+
+#bd {
+    margin-bottom: 0px;
+    margin-left: 140px;
+    margin-top: -18px;
+
+}
+
+.stars2 {
+    margin-bottom: 20px;
+    margin-left: 140px;
+
+
+
+}
+
+.stars2 p {
+    margin-left: 115px;
+    margin-top: -19px;
+
+}
+
+.section5 {
+    background-color:rgb(248,254,255);
+    margin-top: -2.9%;
+   /* border: 2px solid;*/
+
+
+}
+
+.daktH1 {
+    float: left;
+    font-size: 30px;
+    margin-left: 10%;
+    margin-top: 80px;
+    font-size: 50px;
+    width: 60%;
+  /*  border: 2px solid;*/
+    padding: auto;
+    padding-bottom: 20px;
+
+
+}
+
+.daktP {
+    float: right;
+    font-size: 15px;
+    color: #575757;
+  /*  border: 2px solid;*/
+    margin-right: 99px;
+    margin-top: 108px;
+    width: 10%;
+    padding: auto;
+    text-align: center;
+    color: rgb(60,163,174);
+    font-size: larger;
+
+
+}
+
+.daktaris {
+   /* border: 2px solid;*/
+    display: flex;
+    margin-right: 100px;
+    width: 70%;
+    padding-right: 20px;
+    padding-left: 118px;
+    margin-bottom: 80px;
+    height: 80%;
+    padding-bottom: 8%;
+}
+
+#d1 img {
+    height: 80%;
+    width: 110%;
+   /* border: 2px solid;*/
+    margin-bottom: 10px;
+    background-color:rgb(243,240,251);
+    margin-left: 3px;
+    border-radius: 3%;
+
+}
+
+#d1 h4 {
+    margin-top: -3px;
+    margin-left: 1px;
+
+
+}
+
+#d1 p {
+    margin-top: -15px;
+    margin-left: 1px;
+    color: rgb(108,108,144);
+}
+
+#d2 img {
+   /* border: 2px solid;*/
+    margin-bottom: 10px;
+    height: 80%;
+    width: 105%;
+    background-color: rgb(227,252,254);
+    margin-right: 9%;
+    border-radius: 3%;
+}
+
+#d2 h4 {
+    margin-top: -3px;
+    margin-left: 45px;
+
+
+}
+
+#d2 p {
+    margin-top: -15px;
+    margin-left: 45px;
+    color: rgb(108,108,144);
+
+}
+
+#d3 img {
+   /* border: 2px solid;*/
+    margin-bottom: 10px;
+    height: 80%;
+    width: 110%;
+    background-color: rgb(254,245,240);
+    margin-left: 94px;
+    border-radius: 3%;
+
+}
+
+#d3 h4 {
+    margin-top: -3px;
+    margin-left: 92px;
+
+
+}
+
+#d3 p {
+    margin-top: -15px;
+    margin-left: 92px;
+    color: rgb(108,108,144);
+
+
+}
+
+.subscription {
+   /* border: 2px solid;*/
+    width: 80%;
+    margin-left: 120px;
+    background-color:rgb(233,250,252);
+    padding-bottom: 7%;
+    border-radius: 12px;
+    padding-top: 2px;
+   
+}
+
+.subscription h1 {
+    font-size: 49px;
+    margin-top: 100px;
+    margin-left: 240px;
+   
+
+}
+
+#ea {
+   /* border: 2px solid;*/
+    border-radius: 12px;
+    width: 70%;
+    padding: 3%;
+    font-size: 24px;
+    color: #575757;
+    margin-left: 120px;
+    background-color: #fffafa;
+
+}
+
+#ss {
+  /*  border: 2px solid;*/
+    width: 18%;
+    font-size: 24px;
+    border-radius: 9px;
+    padding: 14px;
+    text-align: center;
+    color: #fffafa;
+    background-color: rgb(58,161,171);
+    margin-left: 66%;
+    margin-top: -10%;
+
+}
+
+.footer {
+    background-color:rgb(248,254,255);
+    margin-bottom: -12%;
+    margin-top: -7%;
+}
+
+.end {
+    display: flex;
+ /*   border: 2px solid;*/
+    width: 80%;
+    margin-left: 120px;
+
+}
+
+.yourpet {
+   /* border: 2px solid;*/
+    font-size: 17.2px;
+    text-align: left;
+    padding: 4% 2% 3% 0;
+}
+
+.product {
+ /*   border: 2px solid;*/
+    font-size: 17.2px;
+    text-align: left;
+    padding:7% 4% 2% 0% ;
+    margin-left: 16%;
+
+}
+.product p{
+   color:#575757 ; 
+}
+
+.community {
+  /*  border: 2px solid;*/
+    font-size: 17.2px;
+    text-align: left;
+    padding:7% 4% 2% 0% ;
+    margin-right: -220px;
+    margin-left: 15%;
+
+   
+}
+.community p{
+    color: #575757;
+}
+
+.about {
+   /* border: 2px solid;*/
+    font-size: 17.2px;
+    text-align: left;
+    padding:7% 4% 2% 0% ;
+    margin-left: 37.6%;
+}
+.about p{
+    color: #575757;
+
+}
+
+.yourpet span {
+    color: #35B6C4;
+    font-size: 50px
+}
+
+.yourpet p {
+    margin: 1% 0 0 7%;
+    color: #575757;
+    line-height: 25px;
+    width: 15%;
+    margin-left: -0.7%;
+}
+
+.icons {
+    display: flex;
+    margin: 10%;
+    padding-right: -2px;
+    margin-left: -5%;
+   
+}
+
+.facebook i {
+    color: #17326d;
+    margin-left:-0.7% ;
+    padding: 22%;
+
+}
+
+.twitter i {
+    color: #35B6C4;
+    margin-left:5% ;
+    margin-right:-15%;
+    padding: 29% 70%;
+}
+
+.google i {
+    color: rgb(195, 50, 50);
+    margin-right:-40%;
+    padding: 29% 125%;
+}
+
+.linkedin {
+    color: #0d2a68;
+    margin-right:-87%;
+    padding: 4% 26%;
+}
